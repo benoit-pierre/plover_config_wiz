@@ -1,0 +1,5 @@
+{
+  "name": "Infinity Ergonomic",
+  "config": { "machine_type": "Gemini PR", "machine_specific_options": { "baudrate": 115200 } },
+  "pages": [ "serial" ]
+}

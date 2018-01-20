@@ -1,0 +1,4 @@
+# Tests.
+include tox.ini
+# UI.
+include plover_config_wiz/resources/*

@@ -1,0 +1,5 @@
+/*.egg-info/
+/.tox/
+/build/
+/dist/
+/plover_config_wiz/*_ui.py

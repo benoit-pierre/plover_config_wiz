@@ -1,0 +1,5 @@
+{
+  "name": "Procat Flash",
+  "config": { "machine_type": "TX Bolt" },
+  "pages": [ "procat_flash", "serial" ]
+}

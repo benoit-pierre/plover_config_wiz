@@ -1,0 +1,5 @@
+{
+  "name": "Stentura",
+  "config": { "machine_type": "Stentura" },
+  "pages": [ "stentura", "serial" ]
+}

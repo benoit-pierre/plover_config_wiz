@@ -1,0 +1,6 @@
+{
+  "name": "Treal",
+  "plugin": "plover-treal",
+  "config": { "machine_type": "Treal" },
+  "pages": []
+}
